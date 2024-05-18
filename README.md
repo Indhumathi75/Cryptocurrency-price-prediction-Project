@@ -1,2 +1,13 @@
 # Cryptocurrency-price-prediction-Project
-I have completed my academic project the topic called CRYPTOCURRENCY PRICE PREDICTION.I play the team leader role of our project.The tool used for project is Anaconda Navigator While using the Juypter Notebook.The Bitcoin price prediction can be done using LSTM and GRU algorithm,accuracy compared to show the best algorithm for prediction. The main goal is to test the ability of the algorithm to predict the values.caluculate the MAE and RMSE error for both GRU and LSTM algorithms. 
+The system has been developed using Python's machine learning
+capabilities."
+We utilized Anaconda Navigator to manage the project and
+collaborated with colleagues using Jupyter Notebook. We
+compared the accuracy of LSTM and GRU algorithms to
+determine the best algorithm for prediction.
+We achieved the best goal of showcasing our
+project
+The goal is to test the ability of the algorithm to predict values.
+Split the time series into training and validation sets with 80%
+and 20% respectively to calculate the MAE and RMSE errors for
+both GRU and LSTM algorithms.
